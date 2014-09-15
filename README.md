@@ -1,2 +1,2 @@
-SimpleTextClassificationUsingNumpy
+TextClassificationUsingNumpy
 ==================================
